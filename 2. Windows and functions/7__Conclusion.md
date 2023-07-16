@@ -34,3 +34,9 @@ window w as (
   * функции агрегации.
 
 Остальные функции фреймы не поддерживают.
+
+![image](https://github.com/ElderEv1l/sql_windows/assets/95085670/4246e09a-06f0-457f-b38f-0cfcbf235b09)
+![image](https://github.com/ElderEv1l/sql_windows/assets/95085670/8423799c-d1c8-493b-b7e1-c87861497e86)
+![image](https://github.com/ElderEv1l/sql_windows/assets/95085670/fe651658-7721-40f8-b7c3-ae8483b0aaa3)
+
+
