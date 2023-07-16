@@ -7,7 +7,7 @@ My solutions to the [SQL Window functions course from stepik](https://stepik.org
    + [Aggregate functions](https://github.com/ElderEv1l/sql_windows/blob/main/2.%20Windows%20and%20functions/4__aggregate_functions.sql)
    + [Sliding aggregations](https://github.com/ElderEv1l/sql_windows/blob/main/2.%20Windows%20and%20functions/5__sliding_aggregations.sql)
    + [Statistics](https://github.com/ElderEv1l/sql_windows/blob/main/2.%20Windows%20and%20functions/6__statistics.sql)
-   + # [Conclusion](https://github.com/ElderEv1l/sql_windows/blob/main/2.%20Windows%20and%20functions/7__Conclusion.md)
+   + **_[Conclusion](https://github.com/ElderEv1l/sql_windows/blob/main/2.%20Windows%20and%20functions/7__Conclusion.md)_**
 
 + Frames
    + Rows and groups
