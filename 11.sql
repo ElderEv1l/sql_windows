@@ -31,7 +31,7 @@ limit 1
 
 -- С использованием оконных функций
 
-select name as SecondHighestSalary
+select name
 from (select jobtitle_id, 
 dense_rank() over(order by salary desc) as rank
 from Staff) as sub join Jobtitles as jt
