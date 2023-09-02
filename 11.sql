@@ -33,7 +33,8 @@ limit 1
 
 select name
 from (select jobtitle_id, 
-dense_rank() over(order by salary desc) as rank
-from Staff) as sub join Jobtitles as jt
+	dense_rank() over(order by salary desc) as rank
+	from Staff
+) as sub join Jobtitles as jt
 on jt.jobtitle_id = sub.jobtitle_id
 where rank = 2;
