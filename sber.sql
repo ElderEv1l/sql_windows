@@ -29,6 +29,8 @@ with temp as (
   from activity
 )
 
-select client_id from temp
-group by client_id
-having sum(this_month) <> 0 and sum(previous_month) <> 0
+select count(*) as active_clients from (
+  select client_id from temp
+  group by client_id
+  having sum(this_month) <> 0 and sum(previous_month) <> 0
+)
